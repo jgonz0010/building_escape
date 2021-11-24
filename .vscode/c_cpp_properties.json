@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Building_EscapeEditor Editor Mac Development (Building_Escape)",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Building_Escape.json",
+            "cStandard": "c17",
+            "cppStandard": "c++98"
+        },
+        {
+            "name": "Mac",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++98"
+        }
+    ],
+    "version": 4
+}

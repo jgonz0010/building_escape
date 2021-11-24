@@ -1,0 +1,77 @@
+[
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Building_Escape.Build.cs",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Building_Escape.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Building_Escape.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Building_EscapeGameModeBase.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Building_EscapeGameModeBase.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Grabber.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/Grabber.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/OpenDoor.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/OpenDoor.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/OpenSwingingDoor.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/OpenSwingingDoor.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/OpenTreasureChest.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/OpenTreasureChest.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/WorldPosition.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/Source/Building_Escape/WorldPosition.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/jgonz0010/Documents/Unreal Projects/udemy_ue4_dev/Building_Escape/.vscode/compileCommands_Default/Building_Escape.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	}
+]
